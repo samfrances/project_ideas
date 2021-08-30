@@ -22,3 +22,5 @@ References:
 ## Snake Game in Redux with canvas rendering
 
 ## Redux example to demonstrate property-based testing of redux
+
+## Multi-player real-time "spoons" card-game in Elixir
