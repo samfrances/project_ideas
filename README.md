@@ -8,13 +8,17 @@ References:
 * [Task and gen_tcp](https://elixir-lang.org/getting-started/mix-otp/task-and-gen-tcp.html)
 * [JSON-RPC 2.0 Specification](https://elixir-lang.org/getting-started/mix-otp/task-and-gen-tcp.html)
 
-## Simple Redis Client
+## Simple Redis Client in Elixir
 
 References:
 * https://redis.io/topics/protocol
 * https://www.youtube.com/watch?v=C5KkQUKhc_4&list=WL&index=1
 
-## Simple Redis Server Clone
+## Simple Redis Server Clone in Elixir
 
 References:
 * https://redis.pjam.me/chapters/
+
+## Snake Game in Redux with canvas rendering
+
+## Redux example to demonstrate property-based testing of redux
