@@ -24,3 +24,7 @@ References:
 ## Redux example to demonstrate property-based testing of redux
 
 ## Multi-player real-time "spoons" card-game in Elixir
+
+## Natural Deduction
+
+A program that lets you construct natural deduction proofs (written in Elixir)
