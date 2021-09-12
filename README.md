@@ -28,3 +28,7 @@ References:
 ## Natural Deduction
 
 A program that lets you construct natural deduction proofs (written in Elixir)
+
+## Clean architecture translation into FastAPI
+
+Implement a version of this project in FastAPI: https://www.youtube.com/watch?v=CnailTcJV_U
